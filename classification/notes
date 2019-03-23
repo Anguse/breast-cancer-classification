@@ -1,0 +1,11 @@
+attr_rank[4] = 0.87
+attr_rank[9] = 0.47
+attr_rank[19] = 0.11
+best/worst attribute: 27/9
+using 21 attributes: 94.75% with crossvalidation using cv=5
+MLP best accuracy using 39 hidden nodes = 95.75%
+--WITH STANDARDSCALING--
+best/worst attribute: 0/13
+best logistic regression classifier using 13 attributes = 91%
+MLP best accuracy using 7 hidden nodes and standardscaling on data = 97%
+
